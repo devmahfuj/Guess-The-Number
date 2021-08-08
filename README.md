@@ -1,2 +1,2 @@
 # Guess-The-Number
-A simple number guessing game developed using C language
+A simple number guessing game developed using C
